@@ -1,0 +1,33 @@
+@charset "ISO-8859-1";
+
+
+.main{
+	 background-color:#badcbf;
+    width: 650px;
+    height: 550px;
+    margin-left: 30%;
+   
+	border-radius:40px;
+	
+}
+#in{
+	height: 40px;
+    border-bottom: 1px solid;
+   border-color:#004040 ;
+   border-radius: 20px;
+   font-size: large;
+   font-size: italic;
+}
+form{
+	 margin-left: 25%;
+	    
+	
+}
+.btn{
+	
+    width: 90px;
+    height: 70px;
+    background-color:rgb(171, 171, 86);
+    text-align:center;
+
+}

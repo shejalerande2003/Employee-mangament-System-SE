@@ -1,0 +1,45 @@
+@charset "ISO-8859-1";
+.main{
+	 background-image: url(https://mitrefinch.com/wp-content/uploads/2016/08/Employee-Management-Software-for-Small-Business.jpg);
+     background-repeat: no-repeat;
+     background-size: 1500px;
+     width: 550px;
+     height: 700px;
+     margin-left: 30%;
+     margin-right:40px;
+     margin-top: 10%;
+     border-radius:40px;
+     text-align:center;
+     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+     border: 2px solid;
+	
+}
+#in{
+	height: 50px;
+	width: 220px;
+    border-bottom: 3px solid;
+   border-color:#8ac6df ;
+   border-radius: 17px;
+   font-size: x-large;
+   
+   
+}
+form{
+	 margin-left: 5%;
+	    padding: 10px;
+	
+}
+.btn{
+	
+	
+    width: 180px;
+    height: 50px;
+    color:black;
+    background-color:aqua;
+    font-size: larger;
+    border-radius: 15px;
+    border: 2px solid;
+
+}
+
+   
